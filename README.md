@@ -3,8 +3,9 @@ MCGSimplePocosTemplete
 
 Simple POCOs templete for MyGeneration Code Generator.
 
-MyGeneration is here.
+MyGeneration Code Generatos (require 1.3.1.1 or later)
 http://mygeneration.sourceforge.net/
+download: http://sourceforge.net/projects/mygeneration/
 
 How to use
 
@@ -24,6 +25,9 @@ http://mygeneration.sourceforge.net/
 使い方
 
 1. MyGenerationを起動します。(右クリックで管理者として実行しないと設定ファイルの保存がうまくいかないかもしれません。インストールパスによります。).
+
 2. SimplePocos.zeusファイルを開きます。
+
 3. Change default settingsでデータベースへ接続できる設定にします。
+
 4. Executeボタンで実行します。
