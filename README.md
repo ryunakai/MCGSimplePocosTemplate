@@ -4,8 +4,11 @@ MCGSimplePocosTemplete
 Simple POCOs templete for MyGeneration Code Generator.
 
 MyGeneration Code Generatos (require 1.3.1.1 or later)
+
 http://mygeneration.sourceforge.net/
+
 download: http://sourceforge.net/projects/mygeneration/
+/
 
 How to use
 
@@ -20,7 +23,13 @@ How to use
 -----
 
 MyGenaration用のシンプルなPOCOファイルを生成するテンプレートです。
+
+MyGeneration Code Generatos (ver 1.3.1.1以上をご使用ください)
+
 http://mygeneration.sourceforge.net/
+
+download: http://sourceforge.net/projects/mygeneration/
+
 
 使い方
 
